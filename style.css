@@ -283,3 +283,12 @@ footer {
     left: 0;
     bottom: 0;
 }
+
+@media screen and (max-width: 1366px) {
+    .kedua img {
+        height: 410px;
+    }
+    .ketiga img {
+        height: 410px;
+    }
+}
