@@ -79,6 +79,10 @@ navbar ul li {
     border-radius: 50px;
 }
 
+.gambar-beranda {
+    display: flex;
+}
+
 .kedua {
     background-color: #e7b89d;
     display: flex;
