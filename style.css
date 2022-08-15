@@ -290,9 +290,12 @@ footer {
 
 @media screen and (max-width: 1366px) {
     .kedua img {
-        height: 400px;
+        height: 350px;
     }
     .ketiga img {
+        height: 350px;
+    }
+    .gambar {
         height: 400px;
     }
 }
